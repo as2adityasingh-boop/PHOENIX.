@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lorivex</title>
+  <link rel="stylesheet" href="project.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+  <div class="logo">Phoenix</div>
+  <nav>
+    <a href="#">Features</a>
+    <a href="#">Pricing</a>
+    <a href="#">Testimonials</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <h1>Future of Smart Wear</h1>
+  <p>Minimal. Powerful. Built for the next generation.</p>
+  <div class="hero-buttons">
+    <button class="btn primary">Get Started</button>
+    <button class="btn secondary">Learn More</button>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section class="features">
+  <div class="feature-card">
+    <h3>⚡ Fast Performance</h3>
+    <p>Optimized for speed and efficiency.</p>
+  </div>
+  <div class="feature-card">
+    <h3>🔒 Secure</h3>
+    <p>Advanced protection for your data.</p>
+  </div>
+  <div class="feature-card">
+    <h3>🎨 Clean Design</h3>
+    <p>Minimal UI with maximum impact.</p>
+  </div>
+  <div class="feature-card">
+    <h3>🌐 Global Access</h3>
+    <p>Available everywhere, anytime.</p>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="stats">
+  <div>10K+ Users</div>
+  <div>500+ Companies</div>
+  <div>99% Uptime</div>
+</section>
+
+<!-- PRICING -->
+<section class="pricing">
+  <div class="card">
+    <h3>Basic</h3>
+    <p>$9/month</p>
+  </div>
+  <div class="card highlight">
+    <h3>Pro</h3>
+    <p>$29/month</p>
+  </div>
+  <div class="card">
+    <h3>Enterprise</h3>
+    <p>Custom</p>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials">
+  <div class="testimonial">
+    <p>"Amazing product!"</p>
+    <h4>- Rahul</h4>
+  </div>
+  <div class="testimonial">
+    <p>"Changed my workflow."</p>
+    <h4>- Ananya</h4>
+  </div>
+  <div class="testimonial">
+    <p>"Highly recommend."</p>
+    <h4>- Arjun</h4>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 Lorivex. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
